@@ -110,6 +110,9 @@
     <Compile Include="HtmlRendererRoutedEventArgs.cs" />
     <Compile Include="Utilities\Util.cs" />
   </ItemGroup>
+    <ItemGroup>
+      <None Include="README.MD" />
+    </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.9.1" />
     <PackageReference Include="SkiaSharp" Version="1.68.0" />
